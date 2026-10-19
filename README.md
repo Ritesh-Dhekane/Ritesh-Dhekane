@@ -26,12 +26,12 @@ More (ERPs, CRMs, business sites, tools) on the [Work page](https://ritesh-dheka
 
 ## Stack
 
-**Backend:** Java · Spring Boot · Node.js · Hono · REST APIs
-**Frontend:** React · TypeScript · Vite · Tailwind CSS
-**Mobile:** React Native · Expo
-**Data:** PostgreSQL · SQL · Cloudflare D1
-**Cloud:** GitHub Actions · GitHub Pages · Cloudflare Workers · Netlify
-**AI:** LLM features with structured, checked output
+- **Backend:** Java · Spring Boot · Node.js · Hono · REST APIs
+- **Frontend:** React · TypeScript · Vite · Tailwind CSS
+- **Mobile:** React Native · Expo
+- **Data:** PostgreSQL · SQL · Cloudflare D1
+- **Cloud:** GitHub Actions · GitHub Pages · Cloudflare Workers · Netlify
+- **AI:** LLM features with structured, checked output
 
 ## My GitHub activity
 
