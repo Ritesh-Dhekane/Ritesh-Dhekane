@@ -43,3 +43,6 @@ More (ERPs, CRMs, business sites, tools) on the [Work page](https://ritesh-dheka
 </a>
 
 <sub>Live card from <a href="https://github.com/Ritesh-Dhekane/streakline">Streakline</a>, a tool I built. Click it for the full activity page.</sub>
+
+📊 **Full activity page:** [ritesh-dhekane.github.io/streakline/Ritesh-Dhekane](https://ritesh-dhekane.github.io/streakline/Ritesh-Dhekane) ·
+✨ **Make a page for your own profile:** [Streakline](https://ritesh-dhekane.github.io/streakline/)
