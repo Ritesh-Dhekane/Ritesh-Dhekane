@@ -20,6 +20,7 @@ build it.
 | **Streakline** | A beautiful page of anyone's public GitHub activity: heatmap, streaks, languages and top repos. | [Live](https://ritesh-dhekane.github.io/streakline/) · [Code](https://github.com/Ritesh-Dhekane/streakline) |
 | **Resume Builder** | Pick a template, fill a form, watch a live A4 preview, export a PDF. | [Live](https://ritesh-dhekane.github.io/resume-builder/) · [Code](https://github.com/Ritesh-Dhekane/resume-builder) |
 | **2AM Notes** | A public, Markdown-first exam notes site with search and an audio reader. | [Live](https://ritesh-dhekane.github.io/2am-notes/) · [Code](https://github.com/Ritesh-Dhekane/2am-notes) |
+| **md2jira** | Write a plan in Markdown, create every Jira epic and ticket in one go. | [Docs](https://ritesh-dhekane.github.io/md2jira/) · [Code](https://github.com/Ritesh-Dhekane/md2jira) |
 
 More (ERPs, CRMs, business sites, tools) on the [Work page](https://ritesh-dhekane.github.io/work).
 
